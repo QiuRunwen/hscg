@@ -1,0 +1,12 @@
+cmake-build-debug/
+.vscode/
+cmake/
+idea/
+build/
+debug/
+output/
+*.graph
+include/
+data/
+__pycache__
+*.pyc

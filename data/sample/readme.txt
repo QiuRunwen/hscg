@@ -1,0 +1,1 @@
+sample from `../somedataset` e.g. `../xxx/xxx_base.bin` -> `../sample/xxx/xxx_base.bin`

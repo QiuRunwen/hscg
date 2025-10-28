@@ -1,0 +1,1 @@
+https://research.yandex.com/blog/benchmarks-for-billion-scale-similarity-search
